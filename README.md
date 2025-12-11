@@ -1,2 +1,37 @@
 # Company-sales-report
-A company sales report containing dashboard, KPI, and summary report for buyers, categories, managers, monthly and daily performance
+
+### Project Overview
+
+Compact Excel dashboard showing key sales KPIs, buyer insights, category performance, and manager rankings.
+
+### Data Sources
+
+This report is based on internal sales data from 2016–2018, containing transaction details such as dates, locations, categories, buyers, managers, and sales amounts. The dataset was consolidated and cleaned in Excel for accurate analysis and dashboard reporting.
+
+### Tools
+
+- Microsoft Excel
+  - Used for data analysis and data vizualization
+  
+  - ### Exploratory Data Analysis
+ 
+    EDA Involving the dataset contains transaction-level sales records from 2016–2018, including fields for date, suburb, state, manager, buyer, product category, financial year, and sales amount
+    - Total Sales
+    - Top 5 performing managers
+    - Top 5 selling months
+    - Top 5 selling categories
+    - Total customers
+    
+    ### Data Analysis
+ 
+    - Identify trends and patterns in the dataset "company sales report"
+        visualization : Built interactive visuals including KPI cards, slicers,column charts and bar charts to present insights clearly.
+ 
+    ### Result/Findings
+ 
+    - Total Sales
+    - Highest Seling Manager
+    - Highest Selling Categories
+    - Highest Selling Month
+   
+      
