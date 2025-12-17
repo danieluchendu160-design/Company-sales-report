@@ -30,8 +30,9 @@ This report is based on internal sales data from 2016–2018, containing transac
     ### Result/Findings
  
     - Total Sales
-    - Highest Seling Manager
-    - Highest Selling Categories
-    - Highest Selling Month
+    - Top Seling Manager
+    - Top Selling Category
+    - Top Selling Month
+    - Top selliing day
    
       
