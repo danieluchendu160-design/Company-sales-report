@@ -8,7 +8,6 @@ Compact Excel dashboard showing key sales KPIs, buyer insights, category perform
 
 This report is based on internal sales data from 2016–2018, containing transaction details such as dates, locations, categories, buyers, managers, and sales amounts. The dataset was consolidated and cleaned in Excel for accurate analysis and dashboard reporting.
 
-https://drive.google.com/file/d/1kvpjYCNQhlP6ebqH19P9KG5Zt2MZ24sS/view?usp=drive_link
 
 ### Tools
 
